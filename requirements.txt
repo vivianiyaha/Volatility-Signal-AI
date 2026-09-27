@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+plotly
+websocket-client
+streamlit-autorefresh
